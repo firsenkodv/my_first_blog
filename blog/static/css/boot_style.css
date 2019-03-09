@@ -1,0 +1,29 @@
+/*.container{
+  border-style: solid;
+  border-color: white;
+}
+
+.row{
+  border-style: solid;
+  border-color: white;
+}
+.col{
+  border-style: solid;
+  border-color: red;
+}
+.row div{
+  border-style: solid;
+  border-color: white;
+}
+.alert alert-success{
+  border-style: solid;
+  border-color: black;
+}
+*/
+.card:hover {
+  box-shadow: 5px 5px 5px 5px rgba(0,0,0,0.9);
+}
+.video {
+  width: 50%;
+  margin: auto;
+}
